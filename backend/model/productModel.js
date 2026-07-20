@@ -1,7 +1,7 @@
 import { DataTypes } from "sequelize";
-import sequelize from "../config/db";
+import sequelize from "../config/db.js";
 
-const productsDetails = sequelize.define('productDetails',{
+const ProductsDetails = sequelize.define('ProductDetails',{
 
     name:{
         type:DataTypes.STRING
@@ -35,4 +35,4 @@ const productsDetails = sequelize.define('productDetails',{
     timestamps:true 
 });
 
-export default productsDetails;
+export default ProductsDetails;

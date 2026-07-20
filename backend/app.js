@@ -10,8 +10,8 @@ const app = express();
 app.use(express.json());
 
 //ROUTES
-app.use('/api/pro', productRouters);
-app.use('/api/ord', orderRouter)
+app.use('/api', productRouters);
+app.use('/api', orderRouter)
 
 sequelize.authenticate()
     .then(() => console.log("DB connection"))
