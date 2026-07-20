@@ -1,0 +1,112 @@
+[
+  {
+    "name": "iPhone 16 Pro",
+    "price": 129999,
+    "description": "Apple iPhone 16 Pro with A18 Pro chip and 256GB storage.",
+    "ratings": 4.8,
+    "images": ["iphone16-front.jpg", "iphone16-back.jpg"],
+    "category": "Mobiles",
+    "seller": "Apple Store",
+    "stock": 20,
+    "numOfReviews": 120
+  },
+  {
+    "name": "Samsung Galaxy S25",
+    "price": 99999,
+    "description": "Samsung Galaxy S25 with AMOLED display.",
+    "ratings": 4.7,
+    "images": ["s25-front.jpg", "s25-back.jpg"],
+    "category": "Mobiles",
+    "seller": "Samsung",
+    "stock": 15,
+    "numOfReviews": 90
+  },
+  {
+    "name": "OnePlus 13",
+    "price": 69999,
+    "description": "OnePlus flagship smartphone with Snapdragon processor.",
+    "ratings": 4.6,
+    "images": ["oneplus13-front.jpg", "oneplus13-back.jpg"],
+    "category": "Mobiles",
+    "seller": "OnePlus",
+    "stock": 30,
+    "numOfReviews": 75
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 58999,
+    "description": "15.6-inch laptop with Intel Core i5 processor.",
+    "ratings": 4.5,
+    "images": ["dell-front.jpg", "dell-side.jpg"],
+    "category": "Laptops",
+    "seller": "Dell",
+    "stock": 12,
+    "numOfReviews": 60
+  },
+  {
+    "name": "HP Pavilion 14",
+    "price": 64999,
+    "description": "HP Pavilion laptop with 16GB RAM and 512GB SSD.",
+    "ratings": 4.4,
+    "images": ["hp-front.jpg", "hp-back.jpg"],
+    "category": "Laptops",
+    "seller": "HP",
+    "stock": 18,
+    "numOfReviews": 55
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 29999,
+    "description": "Wireless noise cancelling headphones.",
+    "ratings": 4.9,
+    "images": ["sony-front.jpg", "sony-side.jpg"],
+    "category": "Headphones",
+    "seller": "Sony",
+    "stock": 25,
+    "numOfReviews": 200
+  },
+  {
+    "name": "Apple Watch Series 10",
+    "price": 45999,
+    "description": "Apple smartwatch with health tracking features.",
+    "ratings": 4.8,
+    "images": ["watch-front.jpg", "watch-back.jpg"],
+    "category": "Smart Watches",
+    "seller": "Apple Store",
+    "stock": 22,
+    "numOfReviews": 110
+  },
+  {
+    "name": "Boat Rockerz 550",
+    "price": 2499,
+    "description": "Wireless Bluetooth over-ear headphones.",
+    "ratings": 4.3,
+    "images": ["boat-front.jpg", "boat-side.jpg"],
+    "category": "Headphones",
+    "seller": "Boat",
+    "stock": 50,
+    "numOfReviews": 340
+  },
+  {
+    "name": "Canon EOS 1500D",
+    "price": 42999,
+    "description": "DSLR camera with 24.1MP sensor.",
+    "ratings": 4.6,
+    "images": ["canon-front.jpg", "canon-back.jpg"],
+    "category": "Cameras",
+    "seller": "Canon",
+    "stock": 10,
+    "numOfReviews": 95
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "price": 8999,
+    "description": "Wireless ergonomic mouse for professionals.",
+    "ratings": 4.9,
+    "images": ["mouse-front.jpg", "mouse-side.jpg"],
+    "category": "Accessories",
+    "seller": "Logitech",
+    "stock": 40,
+    "numOfReviews": 180
+  }
+]
