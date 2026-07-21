@@ -2,7 +2,7 @@ import { DataTypes } from "sequelize";
 import sequelize from "../config/db.js";
 
 const ProductsDetails = sequelize.define('ProductDetails',{
-
+    
     name:{
         type:DataTypes.STRING
     },
