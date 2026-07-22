@@ -9,17 +9,3 @@ export const getAllProduct = async() =>{
 export const getSingleProduct = async(id) => {
     return await ProductsDetails.findByPk(id)
 }
-
-//update
-export const updateProduct = async(id, data) => {
-    const product = await ProductsDetails.findByPk(id);
-    if(!product) return null;
-    return await product.update(data);
-}
-
-//delete
-export const deleteProduct = async(id) => {
-    const product = await ProductsDetails.findByPk(id);
-    if(!product) return null;
-    return await product.destroy();
-}
